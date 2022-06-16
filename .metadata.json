@@ -1,0 +1,26 @@
+[
+  {
+    "package": "baRulho",
+    "oncran": true
+  },
+  {
+    "package": "dynaSpec",
+    "oncran": true
+  },
+  {
+    "package": "NatureSounds",
+    "oncran": true
+  },
+  {
+    "package": "Rraven",
+    "oncran": true
+  },
+  {
+    "package": "sketchy",
+    "oncran": true
+  },
+  {
+    "package": "warbleR",
+    "oncran": true
+  }
+]
