@@ -8,11 +8,6 @@
 	url = https://github.com/marce10/barulho
 	shallow = true
 	registered = true
-[submodule "dynaSpec"]
-	path = dynaSpec
-	url = https://github.com/marce10/dynaspec
-	shallow = true
-	registered = true
 [submodule "NatureSounds"]
 	path = NatureSounds
 	url = https://github.com/marce10/naturesounds
