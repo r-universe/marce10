@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "dynaSpec",
+    "oncran": true
+  },
+  {
     "package": "NatureSounds",
     "oncran": true
   },
