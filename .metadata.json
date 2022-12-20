@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "ohun",
+    "oncran": true
+  },
+  {
     "package": "Rraven",
     "oncran": true
   },

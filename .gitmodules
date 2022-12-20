@@ -18,6 +18,11 @@
 	url = https://github.com/marce10/naturesounds
 	shallow = true
 	registered = true
+[submodule "ohun"]
+	path = ohun
+	url = https://github.com/marce10/ohun
+	shallow = true
+	registered = true
 [submodule "Rraven"]
 	path = Rraven
 	url = https://github.com/marce10/rraven
