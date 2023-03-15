@@ -1,21 +1,5 @@
 [
   {
-    "package": "baRulho",
-    "oncran": true
-  },
-  {
-    "package": "dynaSpec",
-    "oncran": true
-  },
-  {
-    "package": "NatureSounds",
-    "oncran": true
-  },
-  {
-    "package": "ohun",
-    "oncran": true
-  },
-  {
     "package": "Rraven",
     "oncran": true
   },
@@ -24,7 +8,23 @@
     "oncran": true
   },
   {
+    "package": "NatureSounds",
+    "oncran": true
+  },
+  {
+    "package": "baRulho",
+    "oncran": true
+  },
+  {
     "package": "warbleR",
+    "oncran": true
+  },
+  {
+    "package": "ohun",
+    "oncran": true
+  },
+  {
+    "package": "dynaSpec",
     "oncran": true
   }
 ]
