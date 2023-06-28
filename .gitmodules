@@ -1,40 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "baRulho"]
 	path = baRulho
 	url = https://github.com/marce10/barulho
-	shallow = true
-	registered = true
 [submodule "dynaSpec"]
 	path = dynaSpec
 	url = https://github.com/marce10/dynaspec
-	shallow = true
-	registered = true
 [submodule "NatureSounds"]
 	path = NatureSounds
 	url = https://github.com/marce10/naturesounds
-	shallow = true
-	registered = true
 [submodule "ohun"]
 	path = ohun
 	url = https://github.com/marce10/ohun
-	shallow = true
-	registered = true
 [submodule "Rraven"]
 	path = Rraven
 	url = https://github.com/marce10/rraven
-	shallow = true
-	registered = true
 [submodule "sketchy"]
 	path = sketchy
 	url = https://github.com/marce10/sketchy
-	shallow = true
-	registered = true
 [submodule "warbleR"]
 	path = warbleR
 	url = https://github.com/marce10/warbler
-	shallow = true
-	registered = true
