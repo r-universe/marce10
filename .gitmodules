@@ -14,9 +14,6 @@
 [submodule "dynaSpec"]
 	path = dynaSpec
 	url = https://github.com/marce10/dynaspec
-[submodule "ohun"]
-	path = ohun
-	url = https://github.com/marce10/ohun
 [submodule "sketchy"]
 	path = sketchy
 	url = https://github.com/marce10/sketchy
