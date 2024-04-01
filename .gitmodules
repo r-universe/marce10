@@ -8,9 +8,6 @@
 [submodule "Rraven"]
 	path = Rraven
 	url = https://github.com/marce10/rraven
-[submodule "baRulho"]
-	path = baRulho
-	url = https://github.com/marce10/barulho
 [submodule "dynaSpec"]
 	path = dynaSpec
 	url = https://github.com/marce10/dynaspec
