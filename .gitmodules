@@ -5,15 +5,6 @@
 [submodule "NatureSounds"]
 	path = NatureSounds
 	url = https://github.com/marce10/naturesounds
-[submodule "Rraven"]
-	path = Rraven
-	url = https://github.com/marce10/rraven
-[submodule "dynaSpec"]
-	path = dynaSpec
-	url = https://github.com/marce10/dynaspec
 [submodule "sketchy"]
 	path = sketchy
 	url = https://github.com/marce10/sketchy
-[submodule "warbleR"]
-	path = warbleR
-	url = https://github.com/marce10/warbler
