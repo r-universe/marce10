@@ -8,3 +8,6 @@
 [submodule "sketchy"]
 	path = sketchy
 	url = https://github.com/marce10/sketchy
+[submodule "warbleR"]
+	path = warbleR
+	url = https://github.com/marce10/warbler
