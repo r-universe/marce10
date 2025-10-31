@@ -1,19 +1,28 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/marce10/marce10.r-universe.dev
 	branch = HEAD
-[submodule "NatureSounds"]
-	path = NatureSounds
-	url = https://github.com/marce10/naturesounds
+[submodule "PhenotypeSpace"]
+	path = PhenotypeSpace
+	url = https://github.com/maRce10/PhenotypeSpace
 [submodule "Rraven"]
 	path = Rraven
-	url = https://github.com/marce10/rraven
+	url = https://github.com/maRce10/Rraven
+[submodule "baRulho"]
+	path = baRulho
+	url = https://github.com/ropensci/baRulho
 [submodule "dynaSpec"]
 	path = dynaSpec
-	url = https://github.com/marce10/dynaspec
+	url = https://github.com/maRce10/dynaSpec
+[submodule "ohun"]
+	path = ohun
+	url = https://github.com/ropensci/ohun
 [submodule "sketchy"]
 	path = sketchy
-	url = https://github.com/marce10/sketchy
+	url = https://github.com/maRce10/sketchy
+[submodule "suwo"]
+	path = suwo
+	url = https://github.com/maRce10/suwo
 [submodule "warbleR"]
 	path = warbleR
-	url = https://github.com/marce10/warbler
+	url = https://github.com/maRce10/warbleR
